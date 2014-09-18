@@ -5,8 +5,5 @@ $(document).on('ready', function() {
 		$('.pbutton').click(function() {
 			$('.popup').remove();
 		});
-	});
-
-	
-	
+	});	
 });
